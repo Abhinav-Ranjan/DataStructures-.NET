@@ -1,0 +1,11 @@
+/Users/ar797k/DataStructures-.NET/bin/Debug/netcoreapp3.1/DataStructures-.NET
+/Users/ar797k/DataStructures-.NET/bin/Debug/netcoreapp3.1/DataStructures-.NET.deps.json
+/Users/ar797k/DataStructures-.NET/bin/Debug/netcoreapp3.1/DataStructures-.NET.runtimeconfig.json
+/Users/ar797k/DataStructures-.NET/bin/Debug/netcoreapp3.1/DataStructures-.NET.runtimeconfig.dev.json
+/Users/ar797k/DataStructures-.NET/bin/Debug/netcoreapp3.1/DataStructures-.NET.dll
+/Users/ar797k/DataStructures-.NET/bin/Debug/netcoreapp3.1/DataStructures-.NET.pdb
+/Users/ar797k/DataStructures-.NET/obj/Debug/netcoreapp3.1/DataStructures-.NET.csprojAssemblyReference.cache
+/Users/ar797k/DataStructures-.NET/obj/Debug/netcoreapp3.1/DataStructures-.NET.AssemblyInfoInputs.cache
+/Users/ar797k/DataStructures-.NET/obj/Debug/netcoreapp3.1/DataStructures-.NET.AssemblyInfo.cs
+/Users/ar797k/DataStructures-.NET/obj/Debug/netcoreapp3.1/DataStructures-.NET.dll
+/Users/ar797k/DataStructures-.NET/obj/Debug/netcoreapp3.1/DataStructures-.NET.pdb
