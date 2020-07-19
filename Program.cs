@@ -11,8 +11,8 @@ namespace DataStructures_.NET
             //string tempinput = "racecar";
             //string tempinput = "noon";
             //string tempinput = "a mom's";
-            //string tempinput = "Was it a car or a cat I saw";
-            string tempinput = " Mr. Owl ate my metal worm";
+            string tempinput = "Was it a car or a cat I saw";
+            //string tempinput = " Mr. Owl ate my metal worm";
 
 
             Regex re = new Regex("\\s|'|\\.");
